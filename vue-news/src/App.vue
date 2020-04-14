@@ -9,7 +9,6 @@ export default {
   methods: {
     fetchData() {
       console.log('hello');
-      
     }
   }
 }
