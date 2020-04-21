@@ -8,3 +8,7 @@ https://vuejs.org/v2/guide/syntax.html#Raw-HTML
 https://router.vuejs.org/guide/advanced/transitions.html#per-route-transition
 뷰 트랜지션 문서
 https://vuejs.org/v2/guide/transitions.html
+- Props Validation API 문서
+https://vuejs.org/v2/guide/components-props.html#Prop-Validation
+- Vue.js 중급 강좌 slot 강의 링크
+https://www.inflearn.com/course/vue-pwa-vue-js-%EC%A4%91%EA%B8%89/lecture/11520
