@@ -30,3 +30,6 @@ https://joshua1988.github.io/web-development/vuejs/vue-router-navigation-guards/
 
 - 네비게이션 가드 뷰 라우터 공식 문서
 https://router.vuejs.org/guide/advanced/navigation-guards.html#global-guards
+
+자바스크립트 async와 await
+https://joshua1988.github.io/web-development/javascript/js-async-await/
