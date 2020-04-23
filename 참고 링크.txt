@@ -33,3 +33,6 @@ https://router.vuejs.org/guide/advanced/navigation-guards.html#global-guards
 
 자바스크립트 async와 await
 https://joshua1988.github.io/web-development/javascript/js-async-await/
+
+Render Function API 문서 링크
+https://vuejs.org/v2/guide/render-function.html#ad

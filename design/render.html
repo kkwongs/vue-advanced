@@ -18,11 +18,9 @@
 				data: {
 					message: 'Hello Vue',
 				},
-				//template: '<p>{{message}}</p>',
-				render: function(createElemt) {
-					//return createElemt('태그이름', '태그 속성','하위태그 내용');
-					// return createElemt('p', 'Hello Vue');
-					return createElemt('p', this.message);
+				// template: '<p>{{message}}</p>',
+				render: function(createElement) {
+					return createElement('p', this.message);
 				},
 			});
 		</script>
